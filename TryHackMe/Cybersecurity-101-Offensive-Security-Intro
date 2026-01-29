@@ -1,0 +1,12 @@
+# Offensive Security
+
+Offensive security focuses on thinking like an attacker in order to identify weaknesses in systems before malicious hackers can exploit them.
+
+In this room, I learned how attackers discover hidden resources on a website. I used directory brute‑forcing tools such as `dirb`/DirBuster to enumerate hidden pages on a simulated banking website.
+
+Through this process, I discovered hidden links that were not visible to normal users. These weaknesses demonstrated how poor access controls and exposed endpoints can be abused to compromise sensitive information.
+
+## Key Takeaways
+- Attackers actively search for hidden directories and pages
+- Tools like `dirb` can reveal sensitive endpoints if misconfigured
+- Proper access controls and security testing are critical for web applications
